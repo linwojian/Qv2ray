@@ -1,4 +1,4 @@
-name: Build Qv2ray AUR
+name: Build Qv2ray AUR12
 on: 
   push:
     paths-ignore:
